@@ -1,0 +1,5 @@
+pluginname=UsageReporter
+pluginclassname=UsagereporterPlugin
+origin=intelec
+version=1.0
+studipMinVersion=3.2
